@@ -1,0 +1,133 @@
+SITE C - SKIN-AD visit 1 records (typed up from paper CRFs by R.)
+
+
+Participant: C-1
+Visit date:  14th March 2024
+Age: 34
+Gender:  M
+Weight: 53.7kg
+Ht:  155 cm
+SCORAD: 33.3
+Antibiotics in last 3 months:  N
+Topical steroids: yes (hydrocortisone 1%)
+Swab:  R antecubital
+Sample: C1_V1
+----------
+
+Participant ID: C02
+Date: 15/03/2024
+Age: 58
+Gender: Female
+Wt: 56.5kg
+Ht: 156 cm
+SCORAD: 19.1
+Antibiotics in last 3 months: yes – doxycycline
+Topical steroids: Yes
+Swab: L antecubital fossa
+Sample: C2_V1
+-----
+
+Participant: C-3
+date of visit: 2024-03-19
+Age: 52
+Sex: Female
+Weight: 83.4
+Height: 5 ft 5 in
+SCORAD: 17.3
+Antibiotics in last 3 months: no
+Topical steroids: none
+Swab: L antecubital fossa
+Sample: C3_V1
+----------
+
+Participant ID: C04
+Visit date:  March 8, 2024
+Age: 20
+Sex:  male
+Weight: 58.4 kg
+Height:  174 cm
+SCORAD: 63.6
+Antibiotics in last 3 months:  none
+Topical steroids: none
+Swab:  volar forearm
+Sample: C4_V1
+-----
+
+Participant: C-5
+Date: 8th March 2024
+Age: 57
+Gender: Male
+Weight: 87.0
+Height: 161 cm
+Antibiotics in last 3 months: No.
+Topical steroids: Yes
+Swab: R popliteal
+Sample: C5_V1
+Notes: SCORAD sheet missing, will chase
+----------
+
+Participant ID: C06
+date of visit: 26/03/2024
+Age: 44
+Sex: Male
+weight: 60.7
+Ht: 167 cm
+SCORAD: 62.2
+Antibiotics in last 3 months: none
+Topical steroids: none
+Swab: L antecubital fossa
+Sample: C6_V1
+-----
+
+Participant: C-7
+date of visit:  2024-03-27
+Age: 30
+Sex:  F
+weight: 64.0kg
+Height:  162 cm
+SCORAD: 51.3
+Antibiotics in last 3 months:  no
+Topical steroids: Yes
+Swab:  antecubital
+Sample: C7_V1
+----------
+
+Participant ID: C08
+Status: WITHDRAWN
+Date: March 25, 2024
+Age: 39
+Gender: M
+weight: 84.6
+Ht: 169 cm
+SCORAD: 43.0
+Antibiotics in last 3 months: no
+Topical steroids: no
+Swab: L forearm (volar)
+Sample: C8_V1
+-----
+
+Participant: C-9
+Visit date: 9th March 2024
+Age: 19
+Gender: Male
+weight: 85.1kg
+Height: 159 cm
+SCORAD: 21.0
+Antibiotics in last 3 months: none
+Topical steroids: none
+Swab: antecubital
+Sample: C9_V1
+----------
+
+Participant ID: C10
+date of visit:  17/03/2024
+Age: 40
+Gender:  male
+weight: 67.5kg
+Ht:  172 cm
+SCORAD: 25.5
+Antibiotics in last 3 months:  none
+Topical steroids: no
+Swab:  L forearm (volar)
+Sample: C10_V1
+-----
