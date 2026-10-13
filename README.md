@@ -87,4 +87,4 @@ Build, use and verify a "Wet Lab Biology Assistant" agent in Microsoft 365 Copil
 
 ## Authors
 
-Aarthi Ravikrishnan (A*SRL) and Deepa Ramasamy (IMCB), A*STAR.
+Aarthi Ravikrishnan (A\*SRL) and Deepa Ramasamy (IMCB), A*STAR.
